@@ -42,6 +42,8 @@ Features:
 * SWD debug pads on bottom of PCB
 * Works out of the box with all of our Adafruit FeatherWings! (Even the UART-using ones like the GPS FeatherWing)
 
+As of January 10, 2024 - We have replaced the discontinued LSM6DS33 with an LSM6DS3TR-C 6 DoF sensor. The performance is improved however new firmware libraries will need to be used in order to read the accelerometer and gyroscope.
+
 ### License
 
 Adafruit invests time and resources providing this open source design, please support Adafruit and open-source hardware by purchasing products from [Adafruit](https://www.adafruit.com)!
